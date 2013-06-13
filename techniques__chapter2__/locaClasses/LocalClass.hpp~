@@ -1,0 +1,5 @@
+class				Interface
+{
+public:
+  virtual void			func() = 0;
+};
